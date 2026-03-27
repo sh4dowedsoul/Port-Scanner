@@ -1,4 +1,3 @@
-# Port-Scanner
 # 🔐 Simple Port Scanner (Python)
 
 ## 📌 About the Project
